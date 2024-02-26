@@ -1,2 +1,1 @@
-# EECS658_archive
-archive of EECS658 assignments and projects (Fall 2022)
+Archive of EECS658 (Introduction to Machine Learning) assignments and projects from the Fall 2022 semester at KU.
